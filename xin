@@ -13,9 +13,9 @@
 </style>
 
 <link href="css/default.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="js/jquery.min.js"></script>
-<script type="text/javascript" src="js/garden.js"></script>
-<script type="text/javascript" src="js/functions.js"></script>
+<script type="text/javascript" src="javascript/jquery.min.js"></script>
+<script type="text/javascript" src="javascript/garden.js"></script>
+<script type="text/javascript" src="javascript/functions.js"></script>
 
 </head>
 
@@ -60,7 +60,7 @@
 				</div>
 				<div id="loveu">
 					爱你直到永永远远。<br/>
-					<div class="signature">- 爱你的人</div>
+					<div class="signature">- 爱你的人-晓</div>
 				</div>
 			</div>
 		</div>
